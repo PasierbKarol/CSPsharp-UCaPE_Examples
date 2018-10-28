@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT0S" SolutionTotalViewTime="PT49.3048167S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples</SolutionFolder>
+  <SessionTimeList />
+  <LastSessionTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT49.3247632S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples.csproj</ProjectName>
+      <CreatedDate>2018-10-28T10:51:57.9743602+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+  </LastSessionTimeList>
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT49.3058138S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples.csproj</ProjectName>
+      <CreatedDate>2018-10-28T10:51:57.9743602+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT49.3068112S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\Program.cs</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples.csproj</ProjectName>
+      <CreatedDate>2018-10-28T10:51:57.9743602+00:00</CreatedDate>
+      <ViewedBy>Karol</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
