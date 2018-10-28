@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSPsharp-UCaPE_Examples", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerProducer", "ConsumerProducer\ConsumerProducer.csproj", "{7694F7EE-7FF3-473B-A472-8397A4FD128F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalingDevice", "ScalingDevice\ScalingDevice.csproj", "{2EEBA316-A137-4D97-8C5D-9EB07ADA538D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7694F7EE-7FF3-473B-A472-8397A4FD128F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7694F7EE-7FF3-473B-A472-8397A4FD128F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7694F7EE-7FF3-473B-A472-8397A4FD128F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EEBA316-A137-4D97-8C5D-9EB07ADA538D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEBA316-A137-4D97-8C5D-9EB07ADA538D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEBA316-A137-4D97-8C5D-9EB07ADA538D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEBA316-A137-4D97-8C5D-9EB07ADA538D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
