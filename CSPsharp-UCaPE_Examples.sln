@@ -5,11 +5,11 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSPsharp-UCaPE_Examples", "CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples.csproj", "{1A5BE330-6748-45EB-89A9-EB4385D8ADA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerProducer", "ConsumerProducer\ConsumerProducer.csproj", "{7694F7EE-7FF3-473B-A472-8397A4FD128F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumerProducer", "ConsumerProducer\ConsumerProducer.csproj", "{7694F7EE-7FF3-473B-A472-8397A4FD128F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScalingDevice", "ScalingDevice\ScalingDevice.csproj", "{2EEBA316-A137-4D97-8C5D-9EB07ADA538D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScalingDevice", "ScalingDevice\ScalingDevice.csproj", "{2EEBA316-A137-4D97-8C5D-9EB07ADA538D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing_GIntegrate", "Testing_GIntegrate\Testing_GIntegrate.csproj", "{D1B9CDA2-96B6-47F5-BFB8-8370D40ECF9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing_GIntegrate", "Testing_GIntegrate\Testing_GIntegrate.csproj", "{D1B9CDA2-96B6-47F5-BFB8-8370D40ECF9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
