@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScalingDevice", "ScalingDev
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing_GIntegrate", "Testing_GIntegrate\Testing_GIntegrate.csproj", "{D1B9CDA2-96B6-47F5-BFB8-8370D40ECF9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGNumbers", "TestGNumbers\TestGNumbers.csproj", "{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D1B9CDA2-96B6-47F5-BFB8-8370D40ECF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1B9CDA2-96B6-47F5-BFB8-8370D40ECF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1B9CDA2-96B6-47F5-BFB8-8370D40ECF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
