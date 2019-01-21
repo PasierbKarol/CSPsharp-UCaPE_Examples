@@ -17,30 +17,30 @@ namespace ScalingDevice
 
             Numbers num = new Numbers(data.Out());
 
-            FixedDelay fixedDelay =  new FixedDelay(1000,
+            FixedDelay fixedDelay = new FixedDelay(1000,
                 data.In(),
                 timedData.Out());
 
-            Scale scale =  new Scale(inChannel: timedData.In(),
-            outChannel: scaledData.Out (),
-            factor: oldScale.Out (),
-            suspend: pause.In (),
-            injector: newScale.In (),
-            multiplier: 2,
-            scaling: 2);
+            Scale scale = new Scale(inChannel: timedData.In(),
+                outChannel: scaledData.Out(),
+                factor: oldScale.Out(),
+                suspend: pause.In(),
+                injector: newScale.In(),
+                multiplier: 2,
+                scaling: 2);
 
-            Controller controller =  new Controller(testInterval: 11000,
+            Controller controller = new Controller(testInterval: 11000,
                 computeInterval: 3000,
-                addition: -1,
-                factor: oldScale.In (),
-            suspend: pause.Out (),
-            injector: newScale.Out ());
+                addition: 1,
+                factor: oldScale.In(),
+                suspend: pause.Out(),
+                injector: newScale.Out());
 
-            GPrint gPrint =  new GPrint(inChannel: scaledData.In (),
-            heading: "Original Scaled",
-            delay: 0);
+            GPrint gPrint = new GPrint(inChannel: scaledData.In(),
+                heading: "Scaled_Data",
+                delay: 1000);
 
-            IamCSProcess[] network = {num, fixedDelay, scale, controller, gPrint};
+            IamCSProcess[] network = { num, fixedDelay, scale, controller, gPrint };
 
             new CSPParallel(network).run();
 

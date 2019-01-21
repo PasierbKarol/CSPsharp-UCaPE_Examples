@@ -7,13 +7,13 @@ namespace ScalingDevice
     [Serializable]
     class ScaledData
     {
-        public int original { get; set; }
-        public int scaled { get; set; }
+        public int Original { get; set; }
+        public int Scaled { get; set; }
 
 
-        public String toString()
+        public String ToString()
         {
-            string s = " " + original + "\t\t" + scaled;
+            string s = $" {Original}\t\t{Scaled}";
 
             return s;
         }

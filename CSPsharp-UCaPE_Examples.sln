@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testing_GIntegrate", "Testi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGNumbers", "TestGNumbers\TestGNumbers.csproj", "{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResetPrefix", "ResetPrefix\ResetPrefix.csproj", "{2D17C81D-A74B-4C2E-BDA2-EFB839500599}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9717BB9-BEE1-4565-91A9-442C1FAF4A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D17C81D-A74B-4C2E-BDA2-EFB839500599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D17C81D-A74B-4C2E-BDA2-EFB839500599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D17C81D-A74B-4C2E-BDA2-EFB839500599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D17C81D-A74B-4C2E-BDA2-EFB839500599}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

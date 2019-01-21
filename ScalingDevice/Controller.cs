@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 using CSPlang;
 
@@ -8,7 +9,7 @@ namespace ScalingDevice
     class Controller : IamCSProcess
     {
         long testInterval = 11000;
-        long computeInterval = 2000;
+        long computeInterval = 7000;
         int addition = 1;
         ChannelInput factor;
         ChannelOutput suspend;
@@ -37,8 +38,10 @@ namespace ScalingDevice
                 timer.after(timeout);
                 suspend.write(0);
                 currentFactor = (int)factor.read();
+
                 currentFactor = currentFactor + addition;
                 timer.sleep(computeInterval);
+
                 injector.write(currentFactor);
             }
         }
