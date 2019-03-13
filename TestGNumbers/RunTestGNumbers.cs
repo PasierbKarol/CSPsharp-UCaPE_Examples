@@ -4,7 +4,7 @@ using PlugAndPlay;
 
 namespace TestGNumbers
 {
-    class TestGNumbers
+    class RunTestGNumbers
     {
         static void Main(string[] args)
         {
@@ -12,8 +12,8 @@ namespace TestGNumbers
 
             IamCSProcess[] testList =
             {
-                new Numbers(outChannel: N2P.Out ()),
-                new GPrint(inChannel: N2P.In (), heading: "Numbers", delay: 1000)
+                new Numbers(outChannel: N2P.Out()),
+                new GPrint(inChannel: N2P.In(), heading: "Numbers", delay: 1000)
             };
 
             new CSPParallel(testList).run();

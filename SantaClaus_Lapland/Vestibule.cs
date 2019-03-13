@@ -15,7 +15,8 @@ namespace SantaClaus_Lapland
         ChannelInput openForBusiness;
         ChannelInput consultationOver;
 
-        public Vestibule(Bucket[] groups, ChannelInput needToConsult, ChannelOutput joinGroup, ChannelInput openForBusiness, ChannelInput consultationOver)
+        public Vestibule(Bucket[] groups, ChannelInput needToConsult, ChannelOutput joinGroup,
+            ChannelInput openForBusiness, ChannelInput consultationOver)
         {
             this.groups = groups;
             this.needToConsult = needToConsult;
@@ -27,8 +28,7 @@ namespace SantaClaus_Lapland
         public void run()
         {
             Skip flush = new Skip();
-            Guard[] vAltGuards = {needToConsult as Guard, consultationOver as Guard, flush};
-            Alternative vAlt = new Alternative(vAltGuards);
+            Alternative vAlt = new Alternative(new Guard[] {needToConsult as Guard, consultationOver as Guard, flush});
             int index = -1;
             int filling = 0;
             int[] counter = {0, 0, 0, 0};

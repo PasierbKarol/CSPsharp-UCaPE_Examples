@@ -6,7 +6,6 @@ namespace ResetPrefix
 {
     class ResetNumbers : IamCSProcess
     {
-
         private ChannelOutput outChannel;
         private ChannelInput resetChannel;
         private int initialValue = 0;
@@ -20,28 +19,26 @@ namespace ResetPrefix
 
         public void run()
         {
-
             One2OneChannel a = Channel.one2one();
             One2OneChannel b = Channel.one2one();
             One2OneChannel c = Channel.one2one();
 
-            IamCSProcess[] testList = 
+            IamCSProcess[] testList =
             {
                 new ResetPrefix(prefixValue: initialValue,
-                outChannel: a.Out(),
-                inChannel: c.In(),
-                resetChannel: resetChannel),
+                    outChannel: a.Out(),
+                    inChannel: c.In(),
+                    resetChannel: resetChannel),
 
                 //Used plugNplay Delta2 instead of creating GCopy - KP
                 new Delta2(In: a.In(),
-                Out1: outChannel,
-                Out2: b.Out()), 
+                    Out1: outChannel,
+                    Out2: b.Out()),
 
                 new Successor(In: b.In(),
-                Out:c.Out())
+                    Out: c.Out())
             };
             new CSPParallel(testList).run();
         }
     }
-
 }

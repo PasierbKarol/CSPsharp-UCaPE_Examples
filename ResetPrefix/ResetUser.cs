@@ -4,16 +4,15 @@ using PlugAndPlay;
 
 namespace ResetPrefix
 {
-
     class ResetUser : IamCSProcess
     {
-
         private ChannelOutput resetValue;
         private ChannelOutput toConsole;
         private ChannelInput fromConverter;
         private ChannelOutput toClearOutput;
 
-        public ResetUser(ChannelOutput resetValue, ChannelOutput toConsole, AltingChannelInput fromConverter, ChannelOutput toClearOutput)
+        public ResetUser(ChannelOutput resetValue, ChannelOutput toConsole, AltingChannelInput fromConverter,
+            ChannelOutput toClearOutput)
         {
             this.resetValue = resetValue;
             this.toConsole = toConsole;

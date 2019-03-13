@@ -17,7 +17,8 @@ namespace ScalingDevice
         ChannelInput suspend;
         ChannelInput injector;
 
-        public Scale(ChannelInput inChannel, ChannelOutput outChannel, ChannelOutput factor, ChannelInput suspend, ChannelInput injector, int multiplier, int scaling)
+        public Scale(ChannelInput inChannel, ChannelOutput outChannel, ChannelOutput factor, ChannelInput suspend,
+            ChannelInput injector, int multiplier, int scaling)
         {
             this.outChannel = outChannel;
             this.factor = factor;
@@ -40,11 +41,9 @@ namespace ScalingDevice
             const int SUSPENDED_IN = 1;
 
             var timer = new CSTimer();
-            Guard[] guardsNormal = { suspend as Guard, timer as Guard, inChannel as Guard };
-            Guard[] guardsSuspended = { injector as Guard, inChannel as Guard };
 
-            var normalAlt = new Alternative(guardsNormal);
-            var suspendedAlt = new Alternative(guardsSuspended);
+            var normalAlt = new Alternative(new Guard[] { suspend as Guard, timer as Guard, inChannel as Guard });
+            var suspendedAlt = new Alternative(new Guard[] { injector as Guard, inChannel as Guard });
             var timeout = timer.read() + DOUBLE_INTERVAL;
 
             timer.setAlarm(timeout);
@@ -56,38 +55,34 @@ namespace ScalingDevice
             {
                 switch (normalAlt.priSelect())
                 {
-
                     case NORMAL_SUSPEND:
-                        suspend.read();         // its a signal, no data content;
-                        factor.write(scaling);   //reply with current value of scaling;
+                        suspend.read(); // its a signal, no data content;
+                        factor.write(scaling); //reply with current value of scaling;
                         bool suspended = true;
                         Console.WriteLine("\n\tSuspended");
                         while (suspended)
                         {
-
                             switch (suspendedAlt.priSelect())
                             {
-
                                 case SUSPENDED_INJECT:
-                                    scaling = (int)injector.read();   //this is the resume signal as well;
+                                    scaling = (int) injector.read(); //this is the resume signal as well;
                                     Console.WriteLine("\n\tInjected scaling is " + scaling);
                                     suspended = false;
                                     timeout = timer.read() + DOUBLE_INTERVAL;
                                     timer.setAlarm(timeout);
                                     break;
 
-
                                 case SUSPENDED_IN:
-                                    inValue = (int)inChannel.read();
+                                    inValue = (int) inChannel.read();
                                     result = new ScaledData();
                                     result.Original = inValue;
                                     result.Scaled = inValue;
                                     outChannel.write(result.ToString());
                                     break;
-                            }  // end-switch
+                            } // end-switch
                         } //end-while
-                        break;
 
+                        break;
 
                     case NORMAL_TIMER:
                         timeout = timer.read() + DOUBLE_INTERVAL;
@@ -96,9 +91,8 @@ namespace ScalingDevice
                         Console.WriteLine("\n\tNormal Timer: new scaling is " + scaling);
                         break;
 
-
                     case NORMAL_IN:
-                        inValue = (int)inChannel.read();
+                        inValue = (int) inChannel.read();
                         result = new ScaledData();
                         result.Original = inValue;
                         result.Scaled = inValue * scaling;

@@ -16,7 +16,8 @@ namespace SantaClaus_Lapland
 
         int holidayTime = 8000;
 
-        public Reindeer(int number, AltingBarrier stable, ChannelOutput harness, ChannelInput harnessed, ChannelInput returned, ChannelInput unharness, int holidayTime)
+        public Reindeer(int number, AltingBarrier stable, ChannelOutput harness, ChannelInput harnessed,
+            ChannelInput returned, ChannelInput unharness, int holidayTime)
         {
             this.number = number;
             this.stable = stable;

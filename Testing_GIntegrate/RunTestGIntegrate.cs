@@ -4,7 +4,7 @@ using PlugAndPlay;
 
 namespace Testing_GIntegrate
 {
-    class TestGIntegrate
+    class RunTestGIntegrate
     {
         static void Main(string[] args)
         {
@@ -13,9 +13,9 @@ namespace Testing_GIntegrate
 
             IamCSProcess[] testList =
             {
-                new Numbers(outChannel: N2I.Out ()),
-                new Integrate(In: N2I.In (),Out: I2P.Out ()),
-                new GPrint(inChannel: I2P.In (), heading: "Integrate", delay: 1000)
+                new Numbers(outChannel: N2I.Out()),
+                new Integrate(In: N2I.In(), Out: I2P.Out()),
+                new GPrint(inChannel: I2P.In(), heading: "Integrate", delay: 1000)
             };
 
             new CSPParallel(testList).run();

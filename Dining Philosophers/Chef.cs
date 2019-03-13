@@ -5,10 +5,10 @@ using CSPlang;
 
 namespace Dining_Philosophers
 {
-    class Chef : IamCSProcess {
-
-    ChannelOutput supply;
-    ChannelOutput toConsole;
+    class Chef : IamCSProcess
+    {
+        ChannelOutput supply;
+        ChannelOutput toConsole;
 
         public Chef(ChannelOutput supply, ChannelOutput toConsole)
         {
@@ -16,22 +16,21 @@ namespace Dining_Philosophers
             this.toConsole = toConsole;
         }
 
-    public void run()
-    {
-
-        CSTimer tim = new CSTimer();
-        int CHICKENS = 4;
-
-        toConsole.write("Starting ... \n");
-        while (true)
+        public void run()
         {
-            toConsole.write("Cooking ... \n"); // cook 4 chickens;
-            tim.after(tim.read() + 2000); // this takes 2 seconds to cook;
-            toConsole.write(CHICKENS + "chickens ready ... \n");
-            supply.write(CHICKENS);
-            toConsole.write("Taking chickens to Canteen ... \n");
-            supply.write(0);
+            CSTimer tim = new CSTimer();
+            int CHICKENS = 4;
+
+            toConsole.write("Starting ... \n");
+            while (true)
+            {
+                toConsole.write("Cooking ... \n"); // cook 4 chickens;
+                tim.after(tim.read() + 2000); // this takes 2 seconds to cook;
+                toConsole.write(CHICKENS + "chickens ready ... \n");
+                supply.write(CHICKENS);
+                toConsole.write("Taking chickens to Canteen ... \n");
+                supply.write(0);
+            }
         }
-    }
     }
 }

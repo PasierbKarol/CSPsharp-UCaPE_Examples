@@ -15,7 +15,8 @@ namespace ResetPrefix
             One2OneChannel Conv2FD = Channel.one2one();
             One2OneChannel FD2GC = Channel.one2one();
 
-            IamCSProcess[] RNprocList =  {
+            IamCSProcess[] RNprocList =
+            {
                 new ResetNumbers(resetChannel: RU2RN.In(),
                     initialValue: 1000,
                     outChannel: RN2Conv.Out()),
@@ -33,17 +34,18 @@ namespace ResetPrefix
             One2OneChannel Conv2RU = Channel.one2one();
             One2OneChannel RU2GCClear = Channel.one2one();
 
-            IamCSProcess[] RUprocList = {
-            new ResetUser(resetValue: RU2RN.Out(),
-                toConsole: RU2GC.Out(),
-                fromConverter: Conv2RU.In(),
-                toClearOutput: RU2GCClear.Out()),
-            new GConsoleStringToInteger(inChannel: GC2Conv.In(),
-                outChannel: Conv2RU.Out()),
-            //new GConsole(toConsole: RU2GC.In(),
-            //    fromConsole: GC2Conv.Out(),
-            //    clearInputArea: RU2GCClear.In(),
-            //    frameLabel: "Reset Value Generator")
+            IamCSProcess[] RUprocList =
+            {
+                new ResetUser(resetValue: RU2RN.Out(),
+                    toConsole: RU2GC.Out(),
+                    fromConverter: Conv2RU.In(),
+                    toClearOutput: RU2GCClear.Out()),
+                new GConsoleStringToInteger(inChannel: GC2Conv.In(),
+                    outChannel: Conv2RU.Out()),
+                //new GConsole(toConsole: RU2GC.In(),
+                //    fromConsole: GC2Conv.Out(),
+                //    clearInputArea: RU2GCClear.In(),
+                //    frameLabel: "Reset Value Generator")
             };
 
             //new CSPParallel(RNprocList + RUprocList).run();

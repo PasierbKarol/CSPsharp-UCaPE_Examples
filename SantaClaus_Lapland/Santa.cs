@@ -25,7 +25,10 @@ namespace SantaClaus_Lapland
         int deliveryTime = 5000;
         int consultationTime = 2000;
 
-        public Santa(ChannelOutput openForBusiness, ChannelOutput consultationOver, ChannelInput harness, ChannelOutput harnessed, ChannelOutput returned, ChannelOutputList unharnessList, AltingBarrier stable, ChannelInput consult, ChannelOutputList consulting, ChannelInput negotiating, ChannelOutputList consulted, int deliveryTime, int consultationTime)
+        public Santa(ChannelOutput openForBusiness, ChannelOutput consultationOver, ChannelInput harness,
+            ChannelOutput harnessed, ChannelOutput returned, ChannelOutputList unharnessList, AltingBarrier stable,
+            ChannelInput consult, ChannelOutputList consulting, ChannelInput negotiating, ChannelOutputList consulted,
+            int deliveryTime, int consultationTime)
         {
             this.openForBusiness = openForBusiness;
             this.consultationOver = consultationOver;
@@ -48,7 +51,7 @@ namespace SantaClaus_Lapland
             const int ELVES = 1;
             Random rng = new Random();
             CSTimer timer = new CSTimer();
-            Alternative santaAlt = new Alternative(new Guard[] { stable, consult as Guard });
+            Alternative santaAlt = new Alternative(new Guard[] {stable, consult as Guard});
             openForBusiness.write(1);
             int index = -1;
 
@@ -65,7 +68,7 @@ namespace SantaClaus_Lapland
                         {
                             ;
                             id[i] = (int) harness.read();
-                            Console.WriteLine("Santa: harnessing reindeer "+id[i]+" ...");
+                            Console.WriteLine("Santa: harnessing reindeer " + id[i] + " ...");
                         }
 
                         Console.WriteLine("Santa: mush mush ...");
@@ -84,7 +87,7 @@ namespace SantaClaus_Lapland
 
                         for (int i = 0; i < 9; i++)
                         {
-                            Console.WriteLine("Santa: unharnessing reindeer " + id[i] );
+                            Console.WriteLine("Santa: unharnessing reindeer " + id[i]);
                             unharnessList[id[i]].write(1);
                         }
 

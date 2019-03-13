@@ -2,6 +2,7 @@
 // Let's Do It In Parallel
 
 using CSPlang;
+using PlugAndPlay;
 
 namespace Dining_Philosophers
 {

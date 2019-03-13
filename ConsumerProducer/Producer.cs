@@ -26,10 +26,10 @@ namespace ConsumerProducer
                 if (!int.TryParse(input, out i))
                 {
                     Console.WriteLine("You have entered invalid number");
-                    continue;                }
+                    continue;
+                }
                 else
                 {
-
                     outChannel.write(i);
                 }
             }

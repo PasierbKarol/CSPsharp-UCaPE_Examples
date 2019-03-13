@@ -2,6 +2,7 @@
 // Let's Do It In Parallel
 
 using CSPlang;
+using PlugAndPlay;
 
 namespace Dining_Philosophers
 {
@@ -13,6 +14,7 @@ namespace Dining_Philosophers
         {
             this.supply = supply;
         }
+
         public void run()
         {
             One2OneChannel console = Channel.one2one();

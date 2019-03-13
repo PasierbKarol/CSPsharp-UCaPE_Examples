@@ -6,7 +6,7 @@ using CSPutil;
 
 namespace SantaClaus_Lapland
 {
-    class Program
+    class RunSantaClaus_Lapland
     {
         static void Main(string[] args)
         {
@@ -14,11 +14,11 @@ namespace SantaClaus_Lapland
             AltingBarrier[] stable = AltingBarrier.create(10);
             var elfGroups = Bucket.create(4);
 
-// Santa to Vestibule Channels
+            // Santa to Vestibule Channels
             One2OneChannel openForBusiness = Channel.createOne2One();
             One2OneChannel consultationOver = Channel.createOne2One();
 
-//reindeer channels
+            //reindeer channels
             Any2OneChannel harness = Channel.createAny2One();
             One2AnyChannel harnessed = Channel.createOne2Any();
             One2AnyChannel returned = Channel.createOne2Any();
@@ -35,7 +35,7 @@ namespace SantaClaus_Lapland
             ChannelOutputList consultingList = new ChannelOutputList(consulting);
             ChannelOutputList consultedList = new ChannelOutputList(consulted);
 
-            List<IamCSProcess> grottoList = new List<IamCSProcess>(); 
+            List<IamCSProcess> grottoList = new List<IamCSProcess>();
             Reindeer[] herd = new Reindeer[9];
             for (int i = 0; i < 9; i++)
             {
@@ -76,7 +76,6 @@ namespace SantaClaus_Lapland
                 );
                 grottoList.Add(elves[i]);
             }
-
 
             Santa santa = new Santa(openForBusiness: openForBusiness.Out(),
                 consultationOver: consultationOver.Out(),

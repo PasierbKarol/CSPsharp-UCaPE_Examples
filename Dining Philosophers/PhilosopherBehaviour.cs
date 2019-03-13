@@ -19,7 +19,6 @@ namespace Dining_Philosophers
             this.deliver = deliver;
             this.toConsole = toConsole;
             this.id = id;
-
         }
 
         public void run()

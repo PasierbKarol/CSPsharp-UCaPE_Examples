@@ -14,10 +14,8 @@ namespace ConsumerProducer
             IamCSProcess[] processList = {new Producer(connect.Out()), new Consumer(connect.In())};
 
             new CSPParallel(processList).run();
-            
 
             Console.ReadKey();
-
         }
     }
 }

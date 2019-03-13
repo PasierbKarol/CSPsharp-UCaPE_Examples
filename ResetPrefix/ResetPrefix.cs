@@ -4,16 +4,15 @@ using PlugAndPlay;
 
 namespace ResetPrefix
 {
-
     class ResetPrefix : IamCSProcess
     {
-
         private int prefixValue = 0;
         private ChannelOutput outChannel;
         private ChannelInput inChannel;
         private ChannelInput resetChannel;
 
-        public ResetPrefix(int prefixValue, ChannelOutput outChannel, AltingChannelInput inChannel, ChannelInput resetChannel)
+        public ResetPrefix(int prefixValue, ChannelOutput outChannel, AltingChannelInput inChannel,
+            ChannelInput resetChannel)
         {
             this.prefixValue = prefixValue;
             this.outChannel = outChannel;
@@ -23,9 +22,7 @@ namespace ResetPrefix
 
         public void run()
         {
-            Guard[] guards = { resetChannel as Guard, inChannel as Guard };
-
-            var alt = new Alternative(guards);
+            var alt = new Alternative(new Guard[] {resetChannel as Guard, inChannel as Guard});
             outChannel.write(prefixValue);
             while (true)
             {
