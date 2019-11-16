@@ -3,7 +3,6 @@
 
 using System;
 using System.Collections.Generic;
-using System.Linq;
 using CSPlang;
 using CSPlang.Any2;
 
@@ -28,7 +27,7 @@ namespace Dining_Philosophers
                     service: service.Out(),
                     deliver:
                     deliver.In()), i);
-                    network.Add(philosopherList[i]);
+                network.Add(philosopherList[i]);
             }
 
 

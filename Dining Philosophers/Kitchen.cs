@@ -22,7 +22,7 @@ namespace Dining_Philosophers
                 toConsole: console.Out());
             GConsole chefConsole = new GConsole(toConsole: console.In(),
                 frameLabel: "Chef");
-            IamCSProcess[] network = {chef, chefConsole};
+            IamCSProcess[] network = { chef, chefConsole };
             new CSPParallel(network).run();
         }
     }

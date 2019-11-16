@@ -1,4 +1,3 @@
-using System;
 using CSPlang;
 using PlugAndPlay;
 
@@ -30,7 +29,7 @@ namespace ResetPrefix
                     inChannel: c.In(),
                     resetChannel: resetChannel),
 
-                //Used plugNplay Delta2 instead of creating GCopy - KP
+                //Used plugNplay Delta2 instead of creating GCopy
                 new Delta2(In: a.In(),
                     Out1: outChannel,
                     Out2: b.Out()),

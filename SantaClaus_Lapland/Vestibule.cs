@@ -28,10 +28,10 @@ namespace SantaClaus_Lapland
         public void run()
         {
             Skip flush = new Skip();
-            Alternative vAlt = new Alternative(new Guard[] {needToConsult as Guard, consultationOver as Guard, flush});
+            Alternative vAlt = new Alternative(new Guard[] { needToConsult as Guard, consultationOver as Guard, flush });
             int index = -1;
             int filling = 0;
-            int[] counter = {0, 0, 0, 0};
+            int[] counter = { 0, 0, 0, 0 };
             const int NEED = 0;
             const int OVER = 1;
             const int FLUSH = 2;

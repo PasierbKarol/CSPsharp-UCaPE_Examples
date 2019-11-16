@@ -1,6 +1,4 @@
-using System;
 using CSPlang;
-using PlugAndPlay;
 
 namespace ResetPrefix
 {
@@ -22,21 +20,19 @@ namespace ResetPrefix
 
         public void run()
         {
-            var alt = new Alternative(new Guard[] {resetChannel as Guard, inChannel as Guard});
+            var alt = new Alternative(new Guard[] { resetChannel as Guard, inChannel as Guard });
             outChannel.write(prefixValue);
             while (true)
             {
                 int index = alt.priSelect();
                 if (index == 0)
                 {
-                    // resetChannel input
                     var resetValue = resetChannel.read();
                     inChannel.read();
                     outChannel.write(resetValue);
                 }
                 else
                 {
-                    //inChannel input 
                     outChannel.write(inChannel.read());
                 }
             }

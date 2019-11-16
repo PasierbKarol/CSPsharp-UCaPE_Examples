@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 using CSPlang;
-using CSPutil;
 
 namespace ConsumerProducer
 {
@@ -10,8 +7,8 @@ namespace ConsumerProducer
     {
         static void Main(string[] args)
         {
-            var connect = Channel.one2oneInt();
-            IamCSProcess[] processList = {new Producer(connect.Out()), new Consumer(connect.In())};
+            var connect = Channel.one2one();
+            IamCSProcess[] processList = { new Producer(connect.Out()), new Consumer(connect.In()) };
 
             new CSPParallel(processList).run();
 

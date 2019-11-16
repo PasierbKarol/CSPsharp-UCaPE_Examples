@@ -29,7 +29,7 @@ namespace Dining_Philosophers
             GConsole serveryConsole = new GConsole(toConsole: console.In(),
                 frameLabel: "Queuing Servery");
 
-            IamCSProcess[] network = {servery, serveryConsole};
+            IamCSProcess[] network = { servery, serveryConsole };
             new CSPParallel(network).run();
         }
     }

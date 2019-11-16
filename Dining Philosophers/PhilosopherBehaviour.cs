@@ -1,7 +1,6 @@
 // copyright 2012-13 Jon Kerridge
 // Let's Do It In Parallel
 
-using System;
 using CSPlang;
 
 namespace Dining_Philosophers
@@ -40,7 +39,7 @@ namespace Dining_Philosophers
 
                 toConsole.write("Need a chicken ...\n");
                 service.write(id);
-                int gotOne = (int) deliver.read();
+                int gotOne = (int)deliver.read();
                 if (gotOne > 0)
                 {
                     toConsole.write("Eating ... \n");

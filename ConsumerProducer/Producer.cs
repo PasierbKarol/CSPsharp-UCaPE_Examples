@@ -1,15 +1,13 @@
 ﻿using System;
 using CSPlang;
-using CSPutil;
-
 
 namespace ConsumerProducer
 {
     public class Producer : IamCSProcess
     {
-        ChannelOutputInt outChannel;
+        ChannelOutput outChannel;
 
-        public Producer(ChannelOutputInt outChannel)
+        public Producer(ChannelOutput outChannel)
         {
             this.outChannel = outChannel;
         }
@@ -26,7 +24,6 @@ namespace ConsumerProducer
                 if (!int.TryParse(input, out i))
                 {
                     Console.WriteLine("You have entered invalid number");
-                    continue;
                 }
                 else
                 {

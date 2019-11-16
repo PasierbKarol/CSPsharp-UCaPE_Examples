@@ -1,7 +1,6 @@
 // copyright 2012-13 Jon Kerridge
 // Let's Do It In Parallel
 
-using System;
 using CSPlang;
 
 namespace Dining_Philosophers
@@ -23,8 +22,8 @@ namespace Dining_Philosophers
 
         public void run()
         {
-            bool[] precondition = {true, false};
-            var canteenAlt = new Alternative(new [] {supply as Guard, service as Guard});
+            bool[] precondition = { true, false };
+            var canteenAlt = new Alternative(new[] { supply as Guard, service as Guard });
 
             const int SUPPLY = 0;
             const int SERVICE = 1;
@@ -45,7 +44,7 @@ namespace Dining_Philosophers
                 switch (canteenAlt.fairSelect(precondition))
                 {
                     case SUPPLY:
-                        int value = (int) supply.read();
+                        int value = (int)supply.read();
                         toConsole.write("Chickens on the way ...\n");
                         tim.after(tim.read() + 3000);
                         chickens = chickens + value;
@@ -53,7 +52,7 @@ namespace Dining_Philosophers
                         supply.read();
                         break;
                     case SERVICE:
-                        int id = (int) service.read();
+                        int id = (int)service.read();
                         chickens = chickens - 1;
                         toConsole.write("chicken ready for Philosoper " + id + " ... " + chickens +
                                         " chickens left \n");

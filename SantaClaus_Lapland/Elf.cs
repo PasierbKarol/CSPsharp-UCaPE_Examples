@@ -45,7 +45,7 @@ namespace SantaClaus_Lapland
                 Console.WriteLine("\tElf " + number + ": working, :)");
                 timer.sleep(workingTime + rng.Next(workingTime));
                 needToConsult.write(number);
-                int group = (int) joinGroup.read();
+                int group = (int)joinGroup.read();
                 groups[group].fallInto();
                 // process will wait until flushed by vestibule
                 // it is guaranteed by vestibule that three Elf proceses will be started

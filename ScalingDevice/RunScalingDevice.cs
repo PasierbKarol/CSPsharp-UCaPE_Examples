@@ -40,7 +40,7 @@ namespace ScalingDevice
                 heading: "Scaled_Data",
                 delay: 1000);
 
-            IamCSProcess[] network = {num, fixedDelay, scale, controller, gPrint};
+            IamCSProcess[] network = { num, fixedDelay, scale, controller, gPrint };
 
             new CSPParallel(network).run();
 

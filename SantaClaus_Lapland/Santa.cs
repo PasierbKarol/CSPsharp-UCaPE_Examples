@@ -51,7 +51,7 @@ namespace SantaClaus_Lapland
             const int ELVES = 1;
             Random rng = new Random();
             CSTimer timer = new CSTimer();
-            Alternative santaAlt = new Alternative(new Guard[] {stable, consult as Guard});
+            Alternative santaAlt = new Alternative(new Guard[] { stable, consult as Guard });
             openForBusiness.write(1);
             int index = -1;
 
@@ -67,7 +67,7 @@ namespace SantaClaus_Lapland
                         for (int i = 0; i < 9; i++)
                         {
                             ;
-                            id[i] = (int) harness.read();
+                            id[i] = (int)harness.read();
                             Console.WriteLine("Santa: harnessing reindeer " + id[i] + " ...");
                         }
 
@@ -93,10 +93,10 @@ namespace SantaClaus_Lapland
 
                         break;
                     case ELVES:
-                        id[0] = (int) consult.read();
+                        id[0] = (int)consult.read();
                         for (int i = 1; i < 3; i++)
                         {
-                            id[i] = (int) consult.read();
+                            id[i] = (int)consult.read();
                         }
 
                         Console.WriteLine("Santa: ho-ho-ho ... some elves are here!");

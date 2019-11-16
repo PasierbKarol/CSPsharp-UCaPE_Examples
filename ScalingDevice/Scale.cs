@@ -65,7 +65,7 @@ namespace ScalingDevice
                             switch (suspendedAlt.priSelect())
                             {
                                 case SUSPENDED_INJECT:
-                                    scaling = (int) injector.read(); //this is the resume signal as well;
+                                    scaling = (int)injector.read(); //this is the resume signal as well;
                                     Console.WriteLine("\n\tInjected scaling is " + scaling);
                                     suspended = false;
                                     timeout = timer.read() + DOUBLE_INTERVAL;
@@ -73,7 +73,7 @@ namespace ScalingDevice
                                     break;
 
                                 case SUSPENDED_IN:
-                                    inValue = (int) inChannel.read();
+                                    inValue = (int)inChannel.read();
                                     result = new ScaledData();
                                     result.Original = inValue;
                                     result.Scaled = inValue;
@@ -92,7 +92,7 @@ namespace ScalingDevice
                         break;
 
                     case NORMAL_IN:
-                        inValue = (int) inChannel.read();
+                        inValue = (int)inChannel.read();
                         result = new ScaledData();
                         result.Original = inValue;
                         result.Scaled = inValue * scaling;

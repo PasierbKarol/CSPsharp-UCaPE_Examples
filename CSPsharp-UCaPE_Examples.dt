@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H17M48.6563151S" SolutionTotalViewTime="PT1H46M46.7238025S" SolutionTotalDebugTime="PT2M28.8543765S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H18M34.0520772S" SolutionTotalViewTime="PT1H50M3.4636193S" SolutionTotalDebugTime="PT2M51.0784251S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
@@ -7,362 +7,24 @@
   <SolutionFolder>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples</SolutionFolder>
   <SessionTimeList />
   <LastSessionTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT7.5378836S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT38.2500519S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ALT.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:34.5425476+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15.5231202S" EditActiveTime="PT0.9283784S">
-      <ModifiedDate>2019-03-13T11:18:16.85485+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Chef.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:34.5510867+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15.1505341S" EditActiveTime="PT0.8582083S">
-      <ModifiedDate>2019-03-13T11:10:49.7937709+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Consumer.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:15.8051177+00:00</CreatedDate>
+      <CreatedDate>2019-10-21T20:30:29.6157515+01:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.3678599S" EditActiveTime="PT1.8662108S">
-      <ModifiedDate>2019-03-13T11:13:08.8434785+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Controller.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:42.0834481+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT17.6509559S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.7415248S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
-      <CreatedDate>2019-03-13T11:20:02.5653602+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.843446S" EditActiveTime="PT8.2544891S">
-      <ModifiedDate>2019-03-13T11:13:27.3899376+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Elf.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:15.2204797+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10M25.3603351S" EditActiveTime="PT2.5894427S">
-      <ModifiedDate>2019-03-13T11:18:09.9733649+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\GConsole.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T10:57:49.6581429+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.6134997S" EditActiveTime="PT0.7526943S">
-      <ModifiedDate>2019-03-13T11:16:31.4737291+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GConsoleStringToInteger.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:50.0211416+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.4138814S" EditActiveTime="PT0.7377165S">
-      <ModifiedDate>2019-03-13T11:16:27.7979834+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GObjectToConsoleString.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:50.7310955+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT17.9569833S" EditActiveTime="PT3.3671406S">
-      <ModifiedDate>2019-03-13T11:18:46.7608194+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Kitchen.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:35.7790993+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9.8238358S" EditActiveTime="PT1.9714779S">
-      <ModifiedDate>2019-03-13T11:18:01.5329399+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:36.4463153+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT13.067153S" EditActiveTime="PT0.8158184S">
-      <ModifiedDate>2019-03-13T11:17:55.2051918+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\PhilosopherBehaviour.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:37.0837442+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT24.258148S" EditActiveTime="PT0.7963696S">
-      <ModifiedDate>2019-03-13T11:10:25.6937561+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Producer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:16.4404382+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT29.4928001S" EditActiveTime="PT16.4338354S">
-      <ModifiedDate>2019-03-13T11:13:46.2159089+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:13.6872646+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT29.2870694S" EditActiveTime="PT32.3526847S">
-      <ModifiedDate>2019-03-13T11:17:49.381258+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingCanteen.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:37.8228805+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT20.6421106S" EditActiveTime="PT3.1459184S">
-      <ModifiedDate>2019-03-13T11:18:53.0572684+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingServery.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:38.6711203+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.8595046S" EditActiveTime="PT1.7361631S">
-      <ModifiedDate>2019-03-13T11:15:21.7711977+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Reindeer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:13.8349141+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.1375656S" EditActiveTime="PT1.3612607S">
-      <ModifiedDate>2019-03-13T11:16:24.4493264+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:51.348607+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT8.3390674S" EditActiveTime="PT9.7384274S">
-      <ModifiedDate>2019-03-13T11:16:20.8805758+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:52.0577098+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.0512087S" EditActiveTime="PT0.9588142S">
-      <ModifiedDate>2019-03-13T11:16:02.3844259+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetUser.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:52.6791214+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.1714264S" EditActiveTime="PT2.496421S">
-      <ModifiedDate>2019-03-13T11:10:21.9802422+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\RunConsumerProducer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:17.0897018+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M2.3545072S" EditActiveTime="PT3M9.5179087S">
-      <ModifiedDate>2019-03-13T11:25:29.3986281+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\RunQueuingCollege.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:39.3169047+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.3979132S" EditActiveTime="PT1.9730132S">
-      <ModifiedDate>2019-03-13T11:15:57.9577871+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\RunReset.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:53.3532872+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT50.617755S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\RunSantaClaus_Lapland.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:14:11.4298409+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.1373938S" EditActiveTime="PT1.9204805S">
-      <ModifiedDate>2019-03-13T11:13:04.0544341+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\RunScalingDevice.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:42.9807353+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.9017441S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\RunTestGIntegrate.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:30.3780573+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.254817S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\RunTestGNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:31.2817445+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11.9634363S" EditActiveTime="PT11.6597849S">
-      <ModifiedDate>2019-03-13T11:14:26.9669155+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Santa.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:13.1347861+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27.7319448S" EditActiveTime="PT1M26.5213837S">
-      <ModifiedDate>2019-03-13T11:15:06.9227747+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Scale.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:44.2402356+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2.5067062S" EditActiveTime="PT3.2704255S">
-      <ModifiedDate>2019-03-13T11:11:50.6367595+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScaledData.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:45.3113526+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9.749219S" EditActiveTime="PT2.7182248S">
-      <ModifiedDate>2019-03-13T11:11:05.1473038+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\TestGIntegrate.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:02.5561984+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10.9780125S" EditActiveTime="PT4.3724239S">
-      <ModifiedDate>2019-03-13T11:11:10.2681662+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:07.6106362+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11.7119099S" EditActiveTime="PT16.0459854S">
-      <ModifiedDate>2019-03-13T11:15:43.4654313+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Vestibule.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:12.3954294+00:00</CreatedDate>
+      <CreatedDate>2019-10-21T20:31:05.9149479+01:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
   </LastSessionTimeList>
@@ -372,9 +34,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\1.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\1.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:43:53.9473792+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -382,9 +44,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ALT.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ALT.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:11:34.5425476+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -403,9 +65,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Chef.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Chef.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-22T18:34:19.2846206+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -413,20 +75,20 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Consumer.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Consumer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:45:18.7236267+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15.1505341S" EditActiveTime="PT0.8582083S">
-      <ModifiedDate>2019-03-13T11:10:49.7937709+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M59.0236041S" EditActiveTime="PT28.7660829S">
+      <ModifiedDate>2019-03-22T10:07:37.236378+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Consumer.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Consumer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:10:15.8051177+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -435,9 +97,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Controller.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Controller.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
       <CreatedDate>2018-11-18T12:25:10.0078855+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -451,10 +113,10 @@
       <CreatedDate>2019-01-23T11:30:25.4320922+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M28.8543765S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT2M51.0784251S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
-      <ViewedCount>8</ViewedCount>
+      <ViewedCount>10</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
@@ -476,9 +138,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Elf.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Elf.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-02-17T13:02:06.3461498+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -487,9 +149,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Elf.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Elf.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:13:15.2204797+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -498,9 +160,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\GConsole.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\GConsole.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-22T18:16:29.5139268+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -509,9 +171,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GConsoleStringToInteger.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GConsoleStringToInteger.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
       <CreatedDate>2018-11-22T16:20:18.3368053+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -520,9 +182,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GObjectToConsoleString.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GObjectToConsoleString.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
       <CreatedDate>2018-11-22T16:20:18.6220568+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -531,9 +193,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Kitchen.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Kitchen.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-22T18:32:11.5291367+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -553,9 +215,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>3</EditedCount>
       <ViewedCount>5</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:50:59.9898459+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -564,20 +226,20 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>4</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\PhilosopherBehaviour.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\PhilosopherBehaviour.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:52:10.2805847+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT24.258148S" EditActiveTime="PT0.7963696S">
-      <ModifiedDate>2019-03-13T11:10:25.6937561+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M29.0760085S" EditActiveTime="PT16.3629794S">
+      <ModifiedDate>2019-03-22T10:10:12.8749205+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Producer.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Producer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:10:16.4404382+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -585,9 +247,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples\CSPsharp-UCaPE_Examples.csproj</ProjectName>
       <CreatedDate>2018-10-28T10:51:57.9743602+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -595,9 +257,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
       <CreatedDate>2018-10-28T11:08:43.5918142+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -605,9 +267,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
       <CreatedDate>2018-10-28T11:15:36.0316682+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -615,9 +277,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
       <CreatedDate>2018-10-28T11:24:23.4361949+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -626,9 +288,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:45:20.3941633+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -636,9 +298,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:42:01.1786522+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -647,9 +309,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-02-17T12:51:01.0917541+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -658,9 +320,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>4</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Program.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Program.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-02-18T11:12:05.6003844+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -669,9 +331,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingCanteen.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingCanteen.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-22T18:24:59.8790618+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -680,9 +342,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingServery.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingServery.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-22T18:22:26.7608441+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -690,9 +352,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Regular.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Regular.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:45:21.5013614+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -701,9 +363,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Reindeer.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Reindeer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-02-17T12:58:35.758287+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -712,9 +374,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Reindeer.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Reindeer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:13:13.8349141+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -723,9 +385,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetNumbers.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetNumbers.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:41:00.1656562+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -734,9 +396,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:42:35.6866831+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -745,20 +407,20 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetUser.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetUser.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:42:40.2454742+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT24.8142993S" EditActiveTime="PT2.496421S">
-      <ModifiedDate>2019-03-13T11:10:21.9802422+00:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT52.8611402S" EditActiveTime="PT4.4197441S">
+      <ModifiedDate>2019-03-22T10:08:03.3763322+00:00</ModifiedDate>
       <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\RunConsumerProducer.cs</Item>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>3</ViewedCount>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\RunConsumerProducer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
       <CreatedDate>2018-10-28T11:12:52.6289592+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -767,9 +429,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>4</EditedCount>
       <ViewedCount>4</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\RunQueuingCollege.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\RunQueuingCollege.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
       <CreatedDate>2019-01-21T18:43:06.3836795+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -778,9 +440,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>3</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\RunReset.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\RunReset.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
       <CreatedDate>2018-11-18T12:24:56.5767947+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -788,9 +450,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\RunSantaClaus_Lapland.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\RunSantaClaus_Lapland.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:14:11.4298409+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -799,9 +461,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>6</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\RunScalingDevice.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\RunScalingDevice.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
       <CreatedDate>2018-10-28T11:16:42.556211+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -809,9 +471,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\RunTestGIntegrate.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\RunTestGIntegrate.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:11:30.3780573+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -819,9 +481,9 @@
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\RunTestGNumbers.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\RunTestGNumbers.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:11:31.2817445+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -830,9 +492,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Santa.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Santa.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-02-17T13:06:51.8129787+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -841,9 +503,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Santa.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Santa.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:13:13.1347861+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -852,9 +514,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>5</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Scale.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Scale.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
       <CreatedDate>2018-11-18T12:26:51.4306273+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -863,9 +525,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>2</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScaledData.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScaledData.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
       <CreatedDate>2019-01-21T09:34:28.9560645+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -874,9 +536,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>3</EditedCount>
       <ViewedCount>7</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\TestGIntegrate.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\TestGIntegrate.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
       <CreatedDate>2018-10-28T11:25:09.7074372+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -885,9 +547,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>3</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
       <CreatedDate>2018-11-22T16:20:18.8399813+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -896,9 +558,9 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Vestibule.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Vestibule.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-02-17T13:19:53.5936996+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
@@ -907,935 +569,32 @@
       <ModifiedBy>Karol</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Vestibule.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Vestibule.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
       <CreatedDate>2019-03-13T11:13:12.3954294+00:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT17.6509559S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT0.7415248S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
       <Item>Debug Mode</Item>
       <ItemType>DebugModeItem</ItemType>
       <ProjectName />
-      <CreatedDate>2019-03-13T11:20:02.5653602+00:00</CreatedDate>
+      <CreatedDate>2019-10-21T20:31:05.9149479+01:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M2.3545072S" EditActiveTime="PT3M9.5179087S">
-      <ModifiedDate>2019-03-13T11:25:29.3986281+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\RunQueuingCollege.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:39.3169047+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT20.6421106S" EditActiveTime="PT3.1459184S">
-      <ModifiedDate>2019-03-13T11:18:53.0572684+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingServery.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:38.6711203+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT29.2870694S" EditActiveTime="PT32.3526847S">
-      <ModifiedDate>2019-03-13T11:17:49.381258+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingCanteen.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:37.8228805+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT13.067153S" EditActiveTime="PT0.8158184S">
-      <ModifiedDate>2019-03-13T11:17:55.2051918+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\PhilosopherBehaviour.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:37.0837442+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9.8238358S" EditActiveTime="PT1.9714779S">
-      <ModifiedDate>2019-03-13T11:18:01.5329399+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:36.4463153+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT17.9569833S" EditActiveTime="PT3.3671406S">
-      <ModifiedDate>2019-03-13T11:18:46.7608194+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Kitchen.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:35.7790993+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15.5231202S" EditActiveTime="PT0.9283784S">
-      <ModifiedDate>2019-03-13T11:18:16.85485+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Chef.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:16:34.5510867+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.3979132S" EditActiveTime="PT1.9730132S">
-      <ModifiedDate>2019-03-13T11:15:57.9577871+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\RunReset.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:53.3532872+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.0512087S" EditActiveTime="PT0.9588142S">
-      <ModifiedDate>2019-03-13T11:16:02.3844259+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetUser.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:52.6791214+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT8.3390674S" EditActiveTime="PT9.7384274S">
-      <ModifiedDate>2019-03-13T11:16:20.8805758+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:52.0577098+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.1375656S" EditActiveTime="PT1.3612607S">
-      <ModifiedDate>2019-03-13T11:16:24.4493264+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:51.348607+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.4138814S" EditActiveTime="PT0.7377165S">
-      <ModifiedDate>2019-03-13T11:16:27.7979834+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GObjectToConsoleString.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:50.7310955+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.6134997S" EditActiveTime="PT0.7526943S">
-      <ModifiedDate>2019-03-13T11:16:31.4737291+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GConsoleStringToInteger.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:15:50.0211416+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT50.617755S" EditActiveTime="PT0S">
+    <DevTrackerDataItem ViewActiveTime="PT38.2500519S" EditActiveTime="PT0S">
       <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
       <EditedCount>0</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\RunSantaClaus_Lapland.cs</Item>
+      <Item>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Consumer.cs</Item>
       <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:14:11.4298409+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.843446S" EditActiveTime="PT8.2544891S">
-      <ModifiedDate>2019-03-13T11:13:27.3899376+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Elf.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:15.2204797+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.8595046S" EditActiveTime="PT1.7361631S">
-      <ModifiedDate>2019-03-13T11:15:21.7711977+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Reindeer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:13.8349141+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11.9634363S" EditActiveTime="PT11.6597849S">
-      <ModifiedDate>2019-03-13T11:14:26.9669155+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Santa.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:13.1347861+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11.7119099S" EditActiveTime="PT16.0459854S">
-      <ModifiedDate>2019-03-13T11:15:43.4654313+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Vestibule.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:13:12.3954294+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2.5067062S" EditActiveTime="PT3.2704255S">
-      <ModifiedDate>2019-03-13T11:11:50.6367595+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScaledData.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:45.3113526+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27.7319448S" EditActiveTime="PT1M26.5213837S">
-      <ModifiedDate>2019-03-13T11:15:06.9227747+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Scale.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:44.2402356+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.1373938S" EditActiveTime="PT1.9204805S">
-      <ModifiedDate>2019-03-13T11:13:04.0544341+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\RunScalingDevice.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:42.9807353+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.3678599S" EditActiveTime="PT1.8662108S">
-      <ModifiedDate>2019-03-13T11:13:08.8434785+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Controller.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:42.0834481+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT7.5378836S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ALT.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:34.5425476+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.254817S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\RunTestGNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:31.2817445+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.9017441S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\RunTestGIntegrate.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:30.3780573+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10.9780125S" EditActiveTime="PT4.3724239S">
-      <ModifiedDate>2019-03-13T11:11:10.2681662+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:07.6106362+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9.749219S" EditActiveTime="PT2.7182248S">
-      <ModifiedDate>2019-03-13T11:11:05.1473038+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\TestGIntegrate.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:11:02.5561984+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.1714264S" EditActiveTime="PT2.496421S">
-      <ModifiedDate>2019-03-13T11:10:21.9802422+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\RunConsumerProducer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:17.0897018+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT24.258148S" EditActiveTime="PT0.7963696S">
-      <ModifiedDate>2019-03-13T11:10:25.6937561+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Producer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:16.4404382+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15.1505341S" EditActiveTime="PT0.8582083S">
-      <ModifiedDate>2019-03-13T11:10:49.7937709+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\Consumer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:15.8051177+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT29.4928001S" EditActiveTime="PT16.4338354S">
-      <ModifiedDate>2019-03-13T11:13:46.2159089+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-03-13T11:10:13.6872646+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10M25.3603351S" EditActiveTime="PT2.5894427S">
-      <ModifiedDate>2019-03-13T11:18:09.9733649+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\GConsole.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-03-13T10:57:49.6581429+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10M10.3337627S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\GConsole.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-02-24T13:13:32.0215168+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M48.9131703S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-24T13:10:35.4535647+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5M9.2161028S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-18T11:12:52.3234748+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT20.6194922S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SantaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-18T11:12:05.6003844+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M38.2509815S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp\CSPlang\Channel\ChannelOutputList.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-02-17T14:40:07.0005468+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1.0290233S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>Debug Mode</Item>
-      <ItemType>DebugModeItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-02-17T14:40:04.7306447+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT16.8425242S" EditActiveTime="PT3M25.1666212S">
-      <ModifiedDate>2019-02-17T13:33:20.091338+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Vestibule.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SantaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-17T13:19:53.5936996+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT28.769766S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Scale.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-02-17T13:09:42.7886269+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M1.3143578S" EditActiveTime="PT11M5.8325467S">
-      <ModifiedDate>2019-02-17T13:32:59.7887652+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Santa.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-17T13:06:51.8129787+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT31.346373S" EditActiveTime="PT4M34.6673593S">
-      <ModifiedDate>2019-02-17T13:32:02.1682783+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Elf.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-17T13:02:06.3461498+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M2.6319927S" EditActiveTime="PT3M28.5410545S">
-      <ModifiedDate>2019-02-17T13:30:45.4251917+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Reindeer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-17T12:58:35.758287+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15M45.0444296S" EditActiveTime="PT13M31.7202782S">
-      <ModifiedDate>2019-02-17T14:28:09.8690688+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\SabtaClaus_Lapland\SabtaClaus_Lapland.csproj</ProjectName>
-      <CreatedDate>2019-02-17T12:51:01.0917541+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT28.1785779S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\TestGIntegrate.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
-      <CreatedDate>2019-02-17T12:49:20.3446289+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT14.4298956S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\TestGIntegrate.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Testing_GIntegrate\Testing_GIntegrate.csproj</ProjectName>
-      <CreatedDate>2019-01-28T14:52:39.4848106+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT23.9096246S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\TestGNumbers\TestGNumbers.csproj</ProjectName>
-      <CreatedDate>2019-01-28T14:51:29.0500559+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT6.9801532S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\PhilosopherBehaviour.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-23T13:21:27.2982203+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT0.2332381S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-23T13:21:27.0639848+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT8.0922243S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>0</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp\CSPlang\CSPParallel.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-01-23T11:30:25.4320922+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT23.6473783S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\RunScalingDevice.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-01-23T11:25:57.6182192+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M34.0393338S" EditActiveTime="PT6.2502307S">
-      <ModifiedDate>2019-01-23T11:22:32.9571852+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp\CSPlang\ParThread.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-01-23T11:21:52.3258729+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.4748851S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>Debug Mode</Item>
-      <ItemType>DebugModeItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-01-23T11:18:29.4046802+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT17.1489405S" EditActiveTime="PT1M27.5542143S">
-      <ModifiedDate>2019-01-23T11:21:46.9899349+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\RunQueuingCollege.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-23T11:16:29.5063916+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT10.1787972S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>Debug Mode</Item>
-      <ItemType>DebugModeItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-01-22T18:43:14.7635722+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT11.3132416S" EditActiveTime="PT1M0.8232655S">
-      <ModifiedDate>2019-01-22T18:35:40.658424+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Chef.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:34:19.2846206+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT22.2112326S" EditActiveTime="PT1M57.5920986S">
-      <ModifiedDate>2019-01-22T18:36:17.1155094+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Kitchen.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:32:11.5291367+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT22.1747253S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Scale.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:26:21.2397976+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT23.6014406S" EditActiveTime="PT4M14.7233781S">
-      <ModifiedDate>2019-01-22T18:31:28.1686226+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingCanteen.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:24:59.8790618+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT38.6274062S" EditActiveTime="PT2M35.4974511S">
-      <ModifiedDate>2019-01-22T18:36:24.7073639+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\QueuingServery.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:22:26.7608441+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M20.1811906S" EditActiveTime="PT5M17.0211969S">
-      <ModifiedDate>2019-01-22T18:44:21.5372632+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\RunQueuingCollege.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:20:47.3809885+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2.0789278S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\RunScalingDevice.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:20:45.3000679+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27.6671505S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\PhilosopherBehaviour.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:20:43.145632+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15.115816S" EditActiveTime="PT2M0.407933S">
-      <ModifiedDate>2019-01-22T18:20:40.1271606+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\GConsole.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:16:29.5139268+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M33.6541696S" EditActiveTime="PT4.501415S">
-      <ModifiedDate>2019-01-22T18:39:30.8914261+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:13:52.6600421+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27.0592536S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-22T18:09:28.0026487+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M2.0384213S" EditActiveTime="PT2M13.3150381S">
-      <ModifiedDate>2019-01-21T18:58:26.1324378+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\PhilosopherBehaviour.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-21T18:52:10.2805847+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT50.1817018S" EditActiveTime="PT3M21.496255S">
-      <ModifiedDate>2019-01-21T18:58:58.6004048+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Philosopher.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-21T18:50:59.9898459+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT6.7199708S" EditActiveTime="PT0.1256639S">
-      <ModifiedDate>2019-01-21T18:43:54.188734+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\1.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-21T18:43:53.9473792+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT34.1414919S" EditActiveTime="PT6M20.1744817S">
-      <ModifiedDate>2019-01-21T18:50:35.1659398+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\RunQueuingCollege.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-21T18:43:06.3836795+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT8.8592121S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\Dining Philosophers\Dining Philosophers.csproj</ProjectName>
-      <CreatedDate>2019-01-21T18:42:01.1786522+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT37.4084434S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Regular.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:45:21.5013614+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT28.7377449S" EditActiveTime="PT2.8307594S">
-      <ModifiedDate>2019-01-21T09:52:42.0709834+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Program.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:45:20.3941633+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT55.1992841S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\Consumer.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\RegularTimerExample\RegularTimerExample.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:45:18.7236267+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT9.31235S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetUser.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:42:40.2454742+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.7075915S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:42:35.6866831+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1.8889115S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GObjectToConsoleString.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:42:33.9703104+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT4.754603S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\GConsoleStringToInteger.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:42:29.3643108+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT18.2168683S" EditActiveTime="PT7.4021885S">
-      <ModifiedDate>2019-01-21T09:42:20.181243+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\RunReset.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:42:07.8155328+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M42.7616041S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>Delta2.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-01-21T09:41:32.5476865+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27.884781S" EditActiveTime="PT31.3741639S">
-      <ModifiedDate>2019-01-21T09:41:56.9958157+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetNumbers.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ResetPrefix\ResetPrefix.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:41:00.1656562+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.1885793S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>Debug Mode</Item>
-      <ItemType>DebugModeItem</ItemType>
-      <ProjectName />
-      <CreatedDate>2019-01-21T09:34:45.2056602+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3.3184318S" EditActiveTime="PT0.8844379S">
-      <ModifiedDate>2019-01-21T09:34:31.8474128+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScaledData.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:34:28.9560645+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT43.760506S" EditActiveTime="PT1.0338295S">
-      <ModifiedDate>2019-01-21T09:34:05.741733+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\RunScalingDevice.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:33:50.911739+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT7.1546913S" EditActiveTime="PT2.4881066S">
-      <ModifiedDate>2019-01-21T09:33:49.3204841+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Controller.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:33:43.7985352+00:00</CreatedDate>
-      <ViewedBy>Karol</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT12M8.4297424S" EditActiveTime="PT1.1009835S">
-      <ModifiedDate>2019-01-21T09:34:18.7095165+00:00</ModifiedDate>
-      <ModifiedBy>Karol</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\Scale.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ScalingDevice\ScalingDevice.csproj</ProjectName>
-      <CreatedDate>2019-01-21T09:33:00.6001517+00:00</CreatedDate>
+      <ProjectName>d:\Moje Dokumenty\Visual Studio 2017\Projects\CSPsharp-UCaPE_Examples\ConsumerProducer\ConsumerProducer.csproj</ProjectName>
+      <CreatedDate>2019-10-21T20:30:29.6157515+01:00</CreatedDate>
       <ViewedBy>Karol</ViewedBy>
     </DevTrackerDataItem>
   </HistoryTimeList>

@@ -1,15 +1,13 @@
 ﻿using System;
 using CSPlang;
-using CSPutil;
-
 
 namespace ConsumerProducer
 {
     public class Consumer : IamCSProcess
     {
-        ChannelInputInt inChannel;
+        ChannelInput inChannel;
 
-        public Consumer(ChannelInputInt inChannel)
+        public Consumer(ChannelInput inChannel)
         {
             this.inChannel = inChannel;
         }
@@ -17,13 +15,11 @@ namespace ConsumerProducer
         public void run()
         {
             int i = 1000;
-
             while (i > 0)
             {
-                i = (int) inChannel.read();
+                i = (int)inChannel.read();
                 Console.WriteLine("\nThe input was " + i);
             }
-
             Console.WriteLine("Finished!");
         }
     }

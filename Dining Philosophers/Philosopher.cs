@@ -1,7 +1,6 @@
 // copyright 2012-13 Jon Kerridge
 // Let's Do It In Parallel
 
-using System;
 using CSPlang;
 using PlugAndPlay;
 
@@ -12,7 +11,6 @@ namespace Dining_Philosophers
         ChannelOutput service;
         ChannelInput deliver;
         int philosopherId;
-
 
         public Philosopher(ChannelOutput service, ChannelInput deliver, int philosopherId)
         {
@@ -31,7 +29,7 @@ namespace Dining_Philosophers
 
             GConsole philosopherConsole = new GConsole(toConsole: console.In(),
                 frameLabel: "Philosopher " + philosopherId);
-            IamCSProcess[] network = {philosopher, philosopherConsole};
+            IamCSProcess[] network = { philosopher, philosopherConsole };
             new CSPParallel(network).run();
         }
     }
